@@ -1,8 +1,6 @@
 {
   "compilerOptions": {
     "target": "ESNext",
-    "jsx": "react",
-    "jsxFactory": "React.createElement",
     "moduleResolution": "node"
   },
   "include": ["hooks", "index.ts"]
